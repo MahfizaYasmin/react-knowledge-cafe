@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/wKFGGGQ/laptop-eyeglasses-mouse-diary-pen-pot-plant-black-background.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/4TMW2B6/beautiful-woman-writing-clipboard.jpg",
+      "posted_date": "2024-03-19",
+      "reading_time": 10,
+      "hashtags": ["programming", "coding", "software"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/rcmsXFT/modern-office-desk-composition.jpg",
+      "title": "Data Science Essentials",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/4TMW2B6/beautiful-woman-writing-clipboard.jpg",
+      "posted_date": "2024-03-18",
+      "reading_time": 15,
+      "hashtags": ["datascience", "analytics", "machinelearning"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/wKFGGGQ/laptop-eyeglasses-mouse-diary-pen-pot-plant-black-background.jpg",
+      "title": "Cooking for Beginners",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/4TMW2B6/beautiful-woman-writing-clipboard.jpg",
+      "posted_date": "2024-03-17",
+      "reading_time": 20,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/rcmsXFT/modern-office-desk-composition.jpg",
+      "title": "Travel Photography Tips",
+      "author": "Robert Brown",
+      "author_img": "https://i.ibb.co/4TMW2B6/beautiful-woman-writing-clipboard.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 12,
+      "hashtags": ["photography", "travel", "tips"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/wKFGGGQ/laptop-eyeglasses-mouse-diary-pen-pot-plant-black-background.jpg",
+      "title": "Fitness Fundamentals",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/4TMW2B6/beautiful-woman-writing-clipboard.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 18,
+      "hashtags": ["fitness", "exercise", "health"]
+    }
+  ]
+  
